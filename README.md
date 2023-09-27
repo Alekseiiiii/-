@@ -15,6 +15,7 @@ Jira, qase.io, SQL, Postman, Swagger, Trello, Git, Chrome DevTools.
 
 Что нужно было сделать:
 
+
 1. Провести функциональное тестирование
 2. Тестирование API
 
