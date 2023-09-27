@@ -7,8 +7,7 @@
 
 ## Навыки и технологии:
 
-''Jira'',qase.io,SQL, Postman,Fiddler, Swagger, Trello,
-SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
+Jira, ''qase.io'', SQL, Postman, Swagger, Trello, Git, Chrome DevTools.
 
 ## Проекты:
 
