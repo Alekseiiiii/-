@@ -12,7 +12,9 @@ Jira, qase.io, SQL, Postman, Swagger, Trello, Git, Chrome DevTools.
 ## Проекты:
 
 Проект 1: тест веб-приложения для учителей от Skyeng Раздел “Личные События”
+
 Что нужно было сделать:
+
 1. Провести функциональное тестирование
 2. Тестирование API
 
@@ -25,6 +27,7 @@ Jira, qase.io, SQL, Postman, Swagger, Trello, Git, Chrome DevTools.
 Проект 2: тест платформы самообучения
 
 Что нужно было сделать:
+
 Тестирование API
 
 Сссылка на проект: https://raspy-bucket-6c5.notion.site/dc96e3cc3248499e81b1e28de05c5101?pvs=4
