@@ -1,3 +1,9 @@
+## Контактная информация:
+
+Email: indrikov.aleksei@mail.ru
+
+Telegram: https://t.me/AlekseiIndikov
+
 # Портфолио: инженер по тестированию
 
 ## Обо мне:
