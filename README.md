@@ -67,3 +67,5 @@
 ## Контактная информация:
 
 Email: indrikov.aleksei@mail.ru
+
+Telegram: https://t.me/AlekseiIndikov
